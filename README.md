@@ -1,2 +1,7 @@
-# standards-wg
-a repository for documenting and coordinating the foundation's web standards work
+# OpenJS Foundation Standards Working Group
+
+The purpose of this repository is to provide a central coordination and documentation point for project communities about foundation standards activities. 
+
+Interested parties can also [join our #standards channel](https://communityinviter.com/apps/js-foundation/join-openjs-foundation-on-slack) on Slack. 
+
+For historical documents about our standards work as the jQuery Foundation and JS Foundation, please see this [repoository](https://github.com/JSFoundation/standards).
