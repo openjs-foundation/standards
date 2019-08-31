@@ -9,8 +9,6 @@ The [openjs-foundation/standards](https://github.com/openjs-foundation/standards
 repository is maintained by the Team and additional Members who are
 added on an ongoing basis.
 
-### Active Members
-
 * Invited to all meetings
 * Can participate in [consensus seeking process](#consensus-seeking-process)
 * Counted towards quorum in [Team Meetings](#team-meetings)
@@ -24,9 +22,7 @@ There is no specific set of requirements or qualifications for Team Membership b
 
 The following groups automatically have membership and can request to be added to the Github team:
 
-* OpenJS Foundation Voting Members
-* OpenJS Foundation Regular Members
-* OpenJS Foundation Board of Directors
+* OpenJS Foundation CPC Members
 * OpenJS Foundation Project Maintainers
 
 ## Team Meetings
@@ -77,29 +73,6 @@ Members participate in a vote.
 This section details expectations for team members involved in any
 pull requests that relate to the group's scope.
 
-Pull requests not included under the special exemptions section below
-must reach consensus in a meeting in order to be merged into this repository.
+Pull requests are merged if it goes unopposed and at least two members approve it within 72 hours after creating.
 
-A pull request that is is unable to reach consensus cannot be merged
-into this repository.
-
-### Special Exemptions to the PR landing process
-
-Special exception is made for pull requests seeking to make any of the following
-changes to this repository:
-
-- Errata fixes.
-- Editorial changes.
-- Meeting minutes.
-- Doc Fixes
-- Lint fixes
-- CI / CD changes
-- Fixing Conflicts with a rebase
-
-These pull requests may be merged without being presented at a meeting if:
-- All the active members approve the Pull Request.
-- There are no dissent after a reasonable time.
-  - The reasonable time will be time boxed to 72 Hours. If any active member(s)
-    feels that they want to have more time for the Pull Request to review, then
-    we can increase the time to the requested time period or until the review
-    is completed.
+A pull request that is opposed will be discussed in the meeting.
