@@ -28,4 +28,4 @@ The requirements for the elected representatives are as follows:
 
 Questions that are essential to address before moving to next stage:
 * Will the existing communities are okay with OpenJS foundation nominating a representative?
-* How to ensure that these representatives do not become a backdoor for the the enterprises?
+* How to ensure that these representatives do not become a backdoor for the enterprises?
