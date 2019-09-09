@@ -20,7 +20,7 @@ Team Membership is not time-limited. There is no fixed size of the Team.
 
 There is no specific set of requirements or qualifications for Team Membership beyond these rules.
 
-The following groups automatically have membership and can request to be added to the Github team:
+The following groups automatically qualify for membership and can request to be added to the GitHub team:
 
 * OpenJS Foundation CPC Members
 * OpenJS Foundation Project Maintainers
@@ -69,9 +69,6 @@ or else the discussion will continue. Simple majority wins. Only Active
 Members participate in a vote.
 
 ## Pull Requests
-
-This section details expectations for team members involved in any
-pull requests that relate to the group's scope.
 
 Pull requests require approval by at least two members and must remain open for at least 72 hours before being landed. If there are any objections the Pull Request cannot land until they are resolved.
 
