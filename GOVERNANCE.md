@@ -73,6 +73,6 @@ Members participate in a vote.
 This section details expectations for team members involved in any
 pull requests that relate to the group's scope.
 
-Pull requests are merged if it goes unopposed and at least two members approve it within 72 hours after creating.
+Pull requests require approval by at least two members and must remain open for at least 72 hours before being landed. If there are any objections the Pull Request cannot land until they are resolved.
 
 A pull request that is opposed will be discussed in the meeting.
