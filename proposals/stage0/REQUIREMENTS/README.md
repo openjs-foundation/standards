@@ -21,7 +21,7 @@ The needs of projects and ecosystem stakeholders being delegated via the represe
 
 The requirements for the elected representatives are as follows:
 
-* They should be a regular attendee of OpenJS Foundation meetings.
+* They should be a member of the OpenJS Foundation.
 * They should be available to travel to standards organizations' meetings.
 * For any meeting at which they represent the OpenJS Foundation:
   * They should be ready to handle any conflicts of interest that might arise.
@@ -30,5 +30,5 @@ The requirements for the elected representatives are as follows:
   * They should update the community about the meetings (either present/write).
 
 Questions that are essential to address before moving to next stage:
-* Will existing communities be okay with OpenJS foundation nominating a representative?
+* Will existing communities be okay with the OpenJS foundation nominating a representative?
 * How to ensure that these representatives do not become a backdoor for enterprises?
