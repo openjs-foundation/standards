@@ -9,5 +9,6 @@ For historical documents about our standards work as the jQuery Foundation and J
 ## Team Members
 
 <!-- ncu-team-sync.team(openjs-foundation/standards) -->
+- [@eemeli](https://github.com/eemeli) Eemeli Aro
 - [@MylesBorins](https://github.com/MylesBorins) Myles Borins
 <!-- ncu-team-sync end -->
