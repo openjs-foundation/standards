@@ -10,4 +10,5 @@ For historical documents about our standards work as the jQuery Foundation and J
 
 <!-- ncu-team-sync.team(openjs-foundation/standards) -->
 - [@MylesBorins](https://github.com/MylesBorins) Myles Borins
+- [@mikesamuel](https://github.com/mikesamuel) Mike Samuel
 <!-- ncu-team-sync end -->
