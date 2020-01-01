@@ -4,7 +4,7 @@ All participants in the OpenJS Foundation projects and groups must follow the [C
 There are further expectations for members who represent the Standards Working Group (hereafter called representatives).
 
 It is understood that representatives may form opinions based on the needs of their employers' or their personal projects. While representing
-the Standards Working Group though, they should decide/discuss/promote based on the interest of Standards Group.
+the Standards Working Group, however, they should decide/discuss/promote based on the interest of the Standards Working Group.
 
 If there is a conflict (due to personal or company specific projects), then the representative should be explicit 
 about the hat they are wearing while deciding/discussing/promoting the project.
@@ -24,4 +24,3 @@ Representatives must also conduct themselves in a professional and respectful ma
 * Build trust by keeping your promises.
 * Be the model of accountability and leadership. Provide the example of ownership and stewardship that everyone can follow to success.
 * Commit to ongoing development and learning best practices for governing.
-
