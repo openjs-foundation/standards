@@ -3,7 +3,7 @@
 All participants in the OpenJS Foundation projects and groups must follow the [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md).
 There are further expectations for members who represent the Standards Working Group (hereafter called representatives).
 
-It is understood that representatives may form opionions based on the need of their employers' or their personal projects. While representing
+It is understood that representatives may form opinions based on the needs of their employers' or their personal projects. While representing
 the Standards Working Group though, they should decide/discuss/promote based on the interest of Standards Group.
 
 If there is a conflict (due to personal or company specific projects), then the representative should be explicit 
@@ -24,5 +24,4 @@ Representatives must also conduct themselves in a professional and respectful ma
 * Build trust by keeping your promises.
 * Be the model of accountability and leadership. Provide the example of ownership and stewardship that everyone can follow to success.
 * Commit to ongoing development and learning best practices for governing.
-
 
