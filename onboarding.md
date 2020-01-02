@@ -18,7 +18,7 @@ there is ample time to discuss and reach consensus before representing Standards
 
 Representatives must also conduct themselves in a professional and respectful manner. Some general guidelines include:
 
-* When in doubt always wear the least possible hat.
+* When in doubt/foreseeing any potential conflict, a representative should choose one "role" with which to express an opinion instead of invoking multiple at once.
 * Aim to remediate first and then discuss. If other members of the team express concerns about actions, acknowledge their concerns by stopping the actions in question and then discuss within the team to come to a common agreement.
 * Treat all community members with respect, consideration, and highest standards of ethical conduct.
 * Build trust by keeping your promises.
