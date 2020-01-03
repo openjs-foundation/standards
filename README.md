@@ -9,5 +9,20 @@ For historical documents about our standards work as the jQuery Foundation and J
 ## Team Members
 
 <!-- ncu-team-sync.team(openjs-foundation/standards) -->
-- [@MylesBorins](https://github.com/MylesBorins) Myles Borins
+
+- [@antsmartian](https://github.com/antsmartian) - antsmartian
+- [@christian-bromann](https://github.com/christian-bromann) - Christian Bromann
+- [@craftninja](https://github.com/craftninja) - Emily Platzer
+- [@eemeli](https://github.com/eemeli) - Eemeli Aro
+- [@Eomm](https://github.com/Eomm) - Manuel Spigolon
+- [@gibson042](https://github.com/gibson042) - Richard Gibson
+- [@joesepi](https://github.com/joesepi) - Joe Sepi
+- [@jorydotcom](https://github.com/jorydotcom) - Jory Burson
+- [@LaRuaNa](https://github.com/LaRuaNa) - Onur Laru
+- [@littledan](https://github.com/littledan) - Daniel Ehrenberg
+- [@ljharb](https://github.com/ljharb) - Jordan Harband
+- [@mikesamuel](https://github.com/mikesamuel) - Mike Samuel
+- [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
+- [@sendilkumarn](https://github.com/sendilkumarn) - Sendil Kumar N
+
 <!-- ncu-team-sync end -->
