@@ -1,4 +1,4 @@
-# Onboarding
+# Member Expectations
 
 All participants in the OpenJS Foundation projects and groups must follow the [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md).
 There are further expectations for members who represent the Standards Working Group (hereafter called representatives).
