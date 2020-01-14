@@ -11,8 +11,10 @@ For historical documents about our standards work as the jQuery Foundation and J
 <!-- ncu-team-sync.team(openjs-foundation/standards) -->
 
 - [@antsmartian](https://github.com/antsmartian) - antsmartian
+- [@bkardell](https://github.com/bkardell) - Brian Kardell
 - [@christian-bromann](https://github.com/christian-bromann) - Christian Bromann
 - [@craftninja](https://github.com/craftninja) - Emily Platzer
+- [@dtex](https://github.com/dtex) - Donovan Buck
 - [@eemeli](https://github.com/eemeli) - Eemeli Aro
 - [@Eomm](https://github.com/Eomm) - Manuel Spigolon
 - [@gibson042](https://github.com/gibson042) - Richard Gibson
