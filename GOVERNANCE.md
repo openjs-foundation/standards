@@ -52,6 +52,22 @@ cannot veto or remove items.
 The moderator is responsible for summarizing the discussion of each
 agenda item and sends it as a pull request after the meeting.
 
+## Attending External Standards Meetings
+
+At various times members of this committee will attend Standards Meetings
+at external organizations as a representative of the OpenJS Foundation.
+If a member would like to attend a meeting as a delegate of the OpenJS Foundation
+they should open an issue stating:
+
+* The standards meeting they wish to attend
+* The OpenJS Foundations relationship to this standards organization
+* The date and location of the meeting
+* If they will be attending in person or remotely
+* The estimated cost of their particiaption
+
+This issue should be labelled with `standards-agenda` and will be approved in the
+next team meeting via the consensus seeking process.
+
 ## Consensus Seeking Process
 
 The Team follows a
