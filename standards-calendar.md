@@ -20,7 +20,7 @@ This list is not exhaustive - it reflects meetings we may or may not be interest
 
 ## 2020
 
-| Date     | Event | Location | SDO | representing members |
+| Date     | Event | Location | SDO | Representing members |
 |----------|-------|----------|-----|-----|
 | 01.22-24 | CSS WG F2F | Igalia @ A Coruña | W3C | |
 | 02.04-06 | TC39 Plenary Meeting | University of Honolulu / JSConfHI | Ecma | |
