@@ -24,6 +24,7 @@ This list is not exhaustive - it reflects meetings we may or may not be interest
 |----------|-------|----------|-----|-----|
 | 01.22-24 | CSS WG F2F | Igalia @ A Coruña | W3C | |
 | 02.04-06 | TC39 Plenary Meeting | University of Honolulu / JSConfHI | Ecma | @gibson042 |
+| 02.25-26 | TC53 In-person Meeting | Palo Alto, CA | Ecma |  |
 | 03.31-04.02 | TC39 Plenary Meeting | Cupertino, CA | Ecma | |
 | 04.27-29 | CSS WG F2F | Apple @ Cork, Ireland | W3C | |
 | 05.17-19 | AC 2020 | Seoul | W3C | |
