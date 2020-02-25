@@ -61,7 +61,7 @@ they should open an issue stating:
 
 * The standards meeting or series of meetings they wish to attend
 * The OpenJS Foundations relationship to this standards organization
-* The date and location of the meeting
+* The date and location of the meeting or meetings
 * If they will be attending in person or remotely
 * The estimated cost of their particiaption
 
