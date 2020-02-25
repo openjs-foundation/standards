@@ -59,7 +59,7 @@ at external organizations as a representative of the OpenJS Foundation.
 If a member would like to attend a meeting as a delegate of the OpenJS Foundation
 they should open an issue stating:
 
-* The standards meeting they wish to attend
+* The standards meeting or series of meetings they wish to attend
 * The OpenJS Foundations relationship to this standards organization
 * The date and location of the meeting
 * If they will be attending in person or remotely
