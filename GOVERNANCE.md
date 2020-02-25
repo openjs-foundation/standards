@@ -64,6 +64,7 @@ they should open an issue stating:
 * The date and location of the meeting or meetings
 * If they will be attending in person or remotely
 * The estimated cost to the foundation of their participation
+* The scope of the work they plan to participate in
 
 This issue should be labelled with `standards-agenda` and will be approved in the
 next team meeting via the consensus seeking process.
