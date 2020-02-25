@@ -54,7 +54,7 @@ agenda item and sends it as a pull request after the meeting.
 
 ## Attending External Standards Meetings
 
-At various times members of this committee will attend Standards Meetings
+At various times members of the Standards team or foundation projects will attend Standards Meetings
 at external organizations as a representative of the OpenJS Foundation.
 If a member would like to attend a meeting as a delegate of the OpenJS Foundation
 they should open an issue stating:
