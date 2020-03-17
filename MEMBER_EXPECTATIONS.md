@@ -24,3 +24,5 @@ Representatives must also conduct themselves in a professional and respectful ma
 * Build trust by keeping your promises.
 * Be the model of accountability and leadership. Provide the example of ownership and stewardship that everyone can follow to success.
 * Commit to ongoing development and learning best practices for governing.
+* Follow the code of conduct of the organization they are a representative to.
+
