@@ -25,6 +25,8 @@ The following groups automatically qualify for membership and can request to be 
 * OpenJS Foundation CPC Members
 * OpenJS Foundation Project Maintainers
 
+Every team member is asked to document ones involvement in any of the standards organisation that person is regularly involved with.
+
 ## Team Meetings
 
 The Team meets bi-weekly on Zoom.us. A designated moderator
