@@ -6,4 +6,4 @@ The following document lists OpenJS Foundation members and their representation 
     * [TC39][1]
     * ...
 
-[1]: https://github.com/tc39
+[TC39]: https://github.com/tc39
