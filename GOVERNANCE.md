@@ -25,7 +25,7 @@ The following groups automatically qualify for membership and can request to be 
 * OpenJS Foundation CPC Members
 * OpenJS Foundation Project Maintainers
 
-Every team member is asked to document ones involvement in any of the standards organizations that person is regularly involved with.
+Every team member is asked to document one's involvement in any of the standards organizations that person is regularly involved with.
 
 ## Team Meetings
 
