@@ -1,5 +1,9 @@
 # OpenJS Foundation Standards Working Group
 
+The Standards Working Group actively monitors evolving standards to educate projects about developments that might affect them, and helps projects formulate standards strategies and advance them before standards bodies.
+
+## This Repository
+
 The purpose of this repository is to provide a central coordination and documentation point for project communities about foundation standards activities.
 
 The Standards Working Group's responsibilities, as ratified by the OpenJS Foundation's Cross Project Council, can be found in the [CPC's Working Groups Document](https://github.com/openjs-foundation/cross-project-council/blob/master/WORKING_GROUPS.md#standards)
