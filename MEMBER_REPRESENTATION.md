@@ -5,5 +5,10 @@ The following document lists OpenJS Foundation members and their representation 
 * [TC39]
   * <fullname> (#issue)
   * ...
+* [W3C]
+  * Brian Kardell (AC)
 
 [TC39]: https://github.com/tc39
+[W3C]: https://www.w3.org/
+
+
