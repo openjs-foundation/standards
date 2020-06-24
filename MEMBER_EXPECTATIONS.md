@@ -5,13 +5,18 @@ There are further expectations for members who represent the Standards Working G
 
 It is understood that representatives may form opinions based on the needs of their employers' or their personal projects. While representing
 the Standards Working Group, however, they should decide/discuss/promote based on the interest of the Standards Working Group.
-
+ 
 If there is a conflict (due to personal or company specific projects), then the representative should be explicit
 about the hat they are wearing while deciding/discussing/promoting the project.
 
 Since many members are often a part of one or more projects in the foundation, feel free to discuss it with the members
 if there is a potential conflict while representing. The representative can raise an issue and discuss them during
 the Standards Working Group meeting.
+
+If the representative or any member of Standards Working Group feels there will be a controversial topic, they can call for a 
+`pre-meeting` to discuss it with the other members of the Working Group. Our representatives should always need to focus on
+representing the foundation and the consensus/expectations that we’ve built to those organizations (if they are representing 
+OpenJS Foundation). 
 
 If a representative has an objection or dissent they should express it as early as possible to ensure
 there is ample time to discuss and reach consensus before representing Standards Working Group.
