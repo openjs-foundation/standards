@@ -5,7 +5,6 @@ There are further expectations for members who represent the Standards Working G
 
 It is understood that representatives may form opinions based on the needs of their employers' or their personal projects. While representing
 the Standards Working Group, however, they should decide/discuss/promote based on the interest of the Standards Working Group.
- 
 If there is a conflict (due to personal or company specific projects), then the representative should be explicit
 about the hat they are wearing while deciding/discussing/promoting the project.
 
