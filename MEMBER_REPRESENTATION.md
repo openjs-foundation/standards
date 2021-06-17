@@ -1,16 +1,25 @@
 # Member Representation
 
 The following document lists OpenJS Foundation members and their representation to any standards organizations:
-
-* [Unicode MessageFormat Working Group](https://github.com/unicode-org/message-format-wg)
-  * Eemeli Aro ([#64](https://github.com/openjs-foundation/standards/issues/64))
+* [Open Source Initiative]
+  * Myles Borins
 * [TC39]
-  * <fullname> (#issue)
-  * ...
+  * Guy Bedford
+  * Jordan Harband
+  * Jory Burson (Ecma GA Representative)
+  * Richard Gibson
+* [TC53]
+  * Donovan Buck
+* [Unicode MessageFormat Working Group]
+  * Eemeli Aro
 * [W3C]
-  * Brian Kardell (AC)
+  * Brian Kardell
+  * Jory Burson (AC)
+  * Michael Champion
 
 [TC39]: https://github.com/tc39
+[TC53]: https://www.ecma-international.org/technical-committees/tc53/
 [W3C]: https://www.w3.org/
-
+[Open Source Initiative]: https://opensource.org/
+[Unicode MessageFormat Working Group]: https://github.com/unicode-org/message-format-wg
 
