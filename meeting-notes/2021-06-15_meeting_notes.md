@@ -33,7 +33,7 @@
 
 * Requesting 10 minutes to discuss API translation effort [#144](https://github.com/openjs-foundation/standards/issues/144)
 
-Mike Samuel shared a presentation on supporting many human languages in development environments. Goal is to help ore-English fluent developers navigate english-heavy apis. Issue of factorials in IDE development. Work happening on cross-language Language translation standards. LSP provides the language smarts & map translations. Additive to translation of documentation. Mike requests people who work as devs while pre-fluent to drive goal setting/prioritization; changes to LSP so a language server can connect identifiers to translations; Developer US expertise; A VSCode plugin; registry website; home org to provide structure. Would be good to have a “test project” from openjs but not necessary. OpenJS Collab Space could be helpful. Microsoft is working on this through VSCode. 
+Mike Samuel shared a presentation on supporting many human languages in development environments. Goal is to help pre-English fluent developers navigate english-heavy apis. Issue of factorials in IDE development. Work happening on cross-language Language translation standards. LSP provides the language smarts & map translations. Additive to translation of documentation. Mike requests people who work as devs while pre-fluent to drive goal setting/prioritization; changes to LSP so a language server can connect identifiers to translations; Developer US expertise; A VSCode plugin; registry website; home org to provide structure. Would be good to have a “test project” from openjs but not necessary. OpenJS Collab Space could be helpful. Microsoft is driving a lot of work on LSP and it would be ideal to involve them. 
 
 * Document Delegates & Delegate Approval Process [#142](https://github.com/openjs-foundation/standards/issues/142)
 
@@ -45,7 +45,7 @@ Do we have any strong feelings about how to handle this? No. Jory to open an PR 
 Jory has created the new repo and added new issues to the repo. 
 Do we want to start with a couple of personas (per Mike Samuel’s idea last time)? How can we do a better job recognizing groups with different needs when it comes to the standards process?
 We could start taking notes / collecting examples / figuring out the gaps. Connected back to the AMA. Brian notes that devs have different impressions/frustrations/fears about engaging with SDOs. What comes up a lot is that groups are different even within a SDO. Is there a way to help explain that nuance (e.g. when should you expect a response, why are responses terse? etc). 
-Mike Persona’s Doc: https://docs.google.com/document/d/122hfS0jdglvCWtKn8TwqKo8Yja9duICgW-_a5aGgiKQ/edit
+Mike's Persona Doc: https://docs.google.com/document/d/122hfS0jdglvCWtKn8TwqKo8Yja9duICgW-_a5aGgiKQ/edit
 
 ## Q&A, Other
 
