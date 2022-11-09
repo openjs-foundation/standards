@@ -27,12 +27,12 @@ For historical documents about our standards work as the jQuery Foundation and J
 - [@joesepi](https://github.com/joesepi) - Joe Sepi
 - [@jorydotcom](https://github.com/jorydotcom) - Jory Burson
 - [@LaRuaNa](https://github.com/LaRuaNa) - Onur Laru
+- [@leaverou](https://github.com/leaverou) - Lea Verou
 - [@littledan](https://github.com/littledan) - Daniel Ehrenberg
 - [@ljharb](https://github.com/ljharb) - Jordan Harband
 - [@mikesamuel](https://github.com/mikesamuel) - Mike Samuel
 - [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
 - [@obensource](https://github.com/obensource) - Ben Michel
 - [@sendilkumarn](https://github.com/sendilkumarn) - Sendil Kumar N
-- [@leaverou](https://github.com/leaverou) - Lea Verou
 
 <!-- ncu-team-sync end -->
