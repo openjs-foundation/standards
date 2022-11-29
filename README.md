@@ -34,5 +34,6 @@ For historical documents about our standards work as the jQuery Foundation and J
 - [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
 - [@obensource](https://github.com/obensource) - Ben Michel
 - [@sendilkumarn](https://github.com/sendilkumarn) - Sendil Kumar N
+- [@tobie](https://github.com/tobie) - Tobie Langel
 
 <!-- ncu-team-sync end -->
