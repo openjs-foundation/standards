@@ -48,4 +48,4 @@ If you’ve found a new bug - congratulations! Web platform bugs can be very fun
 * Web Platform Contribution Guide [https://wpc.guide/bug-guide/](https://wpc.guide/)
 * Web Compat Project [https://webcompat.com/](https://webcompat.com/)
 * How to Report a Bug [http://testthewebforward.org/docs/bugs.html](http://testthewebforward.org/docs/bugs.html)
-* Case Study: The Caper of the Flakey Test [https://bocoup.com/blog/the-caper-of-the-flaky-test](https://bocoup.com/blog/the-caper-of-the-flaky-test)
+* Case Study: The Caper of the Flaky Test [https://bocoup.com/blog/the-caper-of-the-flaky-test](https://bocoup.com/blog/the-caper-of-the-flaky-test)
