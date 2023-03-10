@@ -14,7 +14,7 @@ Copy over the current page, script, or even your entire project and start aggres
 
     These additional resources may be helpful in learning how to create better reduced testcases: 
 	* [https://webkit.org/test-case-reduction/](https://webkit.org/test-case-reduction/)
-   * [https://css-tricks.com/reduced-test-cases/](https://css-tricks.com/reduced-test-cases/) 
+    * [https://css-tricks.com/reduced-test-cases/](https://css-tricks.com/reduced-test-cases/) 
 
 
 2. **What kind of bug do you have?** \
