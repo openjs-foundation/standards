@@ -17,7 +17,7 @@ Copy over the current page, script, or even your entire project and start aggres
     * [https://css-tricks.com/reduced-test-cases/](https://css-tricks.com/reduced-test-cases/) 
 
 
-2. **What kind of bug do you have?** \
+2. **What kind of bug do you have?**
 In addition to the cross-browser compatibility bugs you might run into as you build your application, you may also hit bugs in a test environment, or in sample code/documentation, or in areas where a feature has been underspecified. Interoperability bugs deal with situations in which browsers behave differently from each other, and the specification either: agrees with one or more; requires a behavior that is not implemented anywhere; or is not clear about the correct behavior. Sometimes, browsers will agree on a behavior, and the relevant specification will be inaccurate, or underspecified for the correct behavior - let’s call these clarification bugs. \
  \
 To determine which is the case (and that you’re interpreting the issue correctly as well) start with reputable source documentation for the feature you are trying to use, such as [MDN Web Docs](https://github.com/mdn/content) or the documentation site for your browser engine. These resources will often note where there are known bugs, and will typically link you directly to the relevant specification(s) and their test suite(s) from these pages. A careful read of the spec may further clarify which kind of bug you are dealing with. 
