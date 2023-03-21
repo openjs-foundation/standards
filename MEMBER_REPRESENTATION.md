@@ -7,6 +7,7 @@ The following document lists OpenJS Foundation members and their representation 
   * Guy Bedford
   * Jordan Harband
   * Jory Burson (Ecma GA Representative)
+  * Lea Verou
   * Richard Gibson
 * [TC53]
   * Donovan Buck
