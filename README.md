@@ -16,24 +16,30 @@ For historical documents about our standards work as the jQuery Foundation and J
 
 <!-- ncu-team-sync.team(openjs-foundation/standards) -->
 
-- [@antsmartian](https://github.com/antsmartian) - antsmartian
+### Active Members
+
 - [@bkardell](https://github.com/bkardell) - Brian Kardell
 - [@christian-bromann](https://github.com/christian-bromann) - Christian Bromann
-- [@craftninja](https://github.com/craftninja) - Emily Platzer
 - [@dtex](https://github.com/dtex) - Donovan Buck
 - [@eemeli](https://github.com/eemeli) - Eemeli Aro
-- [@Eomm](https://github.com/Eomm) - Manuel Spigolon
 - [@gibson042](https://github.com/gibson042) - Richard Gibson
 - [@joesepi](https://github.com/joesepi) - Joe Sepi
 - [@jorydotcom](https://github.com/jorydotcom) - Jory Burson
-- [@LaRuaNa](https://github.com/LaRuaNa) - Onur Laru
 - [@leaverou](https://github.com/leaverou) - Lea Verou
-- [@littledan](https://github.com/littledan) - Daniel Ehrenberg
 - [@ljharb](https://github.com/ljharb) - Jordan Harband
 - [@mikesamuel](https://github.com/mikesamuel) - Mike Samuel
-- [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
+- [@tobie](https://github.com/tobie) - Tobie Langel
+
+### Past Members
+
+- [@antsmartian](https://github.com/antsmartian) - antsmartian
+- [@craftninja](https://github.com/craftninja) - Emily Platzer
+- [@Eomm](https://github.com/Eomm) - Manuel Spigolon
+- [@LaRuaNa](https://github.com/LaRuaNa) - Onur Laru
 - [@obensource](https://github.com/obensource) - Ben Michel
 - [@sendilkumarn](https://github.com/sendilkumarn) - Sendil Kumar N
-- [@tobie](https://github.com/tobie) - Tobie Langel
+- [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
+- [@littledan](https://github.com/littledan) - Daniel Ehrenberg
+
 
 <!-- ncu-team-sync end -->
