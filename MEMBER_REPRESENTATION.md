@@ -2,7 +2,7 @@
 
 The following document lists OpenJS Foundation members and their representation to any standards organizations:
 * [Open Source Initiative]
-  * TBD
+  * Tobie Langel
 * [TC39]
   * Guy Bedford
   * Jordan Harband
