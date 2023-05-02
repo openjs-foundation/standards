@@ -17,6 +17,7 @@ The following document lists OpenJS Foundation members and their representation 
   * Brian Kardell
   * Jory Burson (AC)
   * Michael Champion
+  * Tobie Langel
 
 [TC39]: https://github.com/tc39
 [TC53]: https://www.ecma-international.org/technical-committees/tc53/
