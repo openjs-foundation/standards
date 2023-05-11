@@ -1,4 +1,11 @@
-# OpenJS Foundation Standards Working Group
+<a href="https://openjsf.org">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color-dark_background.svg" />
+    <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color.svg" width="200" alt="Openjs Foundation Logo" />
+  </picture>
+</a>
+
+# Standards Working Group
 
 The Standards Working Group actively monitors evolving standards to educate projects about developments that might affect them, and helps projects formulate standards strategies and advance them before standards bodies.
 
