@@ -3,12 +3,12 @@
 The following document lists OpenJS Foundation's memberships and liaison relationships, along with the community members designated to participate on behalf of the Foundation:
 
 * [Ecma International]
-  * [TC39] Delegates
+  * [TC39] 
     * Guy Bedford
     * Jordan Harband
     * Lea Verou
     * Richard Gibson
-  * [TC53] Delegates
+  * [TC53] 
     * Donovan Buck
   * General Assembly Representative
     * Jory Burson
