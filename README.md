@@ -38,6 +38,7 @@ For historical documents about our standards work as the jQuery Foundation and J
 - [@tobie](https://github.com/tobie) - Tobie Langel
 - [@VoltrexKeyva](https://github.com/VoltrexKeyva) - Mohammed Keyvanzadeh
 - [@michaelchampion](https://github.com/michaelchampion) - Michael Champion
+- [@rxmarbles](https://github.com/rxmarbles) - Rick Markins
 
 ### Past Members
 
