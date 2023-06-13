@@ -27,6 +27,7 @@ For historical documents about our standards work as the jQuery Foundation and J
 
 - [@bkardell](https://github.com/bkardell) - Brian Kardell
 - [@christian-bromann](https://github.com/christian-bromann) - Christian Bromann
+- [@darcyclarke](https://github.com/darcyclarke) - Darcy Clarke
 - [@dtex](https://github.com/dtex) - Donovan Buck
 - [@eemeli](https://github.com/eemeli) - Eemeli Aro
 - [@gibson042](https://github.com/gibson042) - Richard Gibson
