@@ -37,7 +37,6 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Michael Champion
     * Tobie Langel (Alt AC Rep.)
     * Anne-Gaelle Colom
-    * Richard Gibson
     * David Methvin
     * Alexander Schmitz
     * Mike Sherov
