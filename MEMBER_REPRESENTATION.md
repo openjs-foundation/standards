@@ -20,6 +20,8 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
   * [Web-interoperable Runtimes Community Group]
     * Jory Burson
     * Robin Ginn
+    * Jordan Harband
+    * Ethan Arrowood
   * [Web History Community Group]
     * Brian Kardell
   * [Web Platform Incubator Community Group]
