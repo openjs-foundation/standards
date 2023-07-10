@@ -1,35 +1,35 @@
 # OpenJS Foundation Representatives
 
-The following document lists OpenJS Foundation's memberships and liaison relationships, along with the community members designated to participate on behalf of the Foundation:
+The following document lists OpenJS Foundation's memberships and liaison relationships, along with [Working Group Members] and community members who participate in these organizations. An asterisk (*) denotes delegates of the OpenJS Foundation. Where applicable, organizational affiliation has been added in parens.
 
 * [Ecma International]
   * [TC39] 
-    * Guy Bedford
-    * Jordan Harband
-    * Lea Verou
-    * Richard Gibson
+    * Guy Bedford* 
+    * Jordan Harband (Invited Expert)
+    * Lea Verou* 
+    * Richard Gibson* 
   * [TC53] 
-    * Donovan Buck
+    * Donovan Buck* (Invited Expert)
   * General Assembly Representative
-    * Jory Burson
+    * Jory Burson* 
 * [Open Source Initiative]
-  * Tobie Langel (Delegate)
+  * Tobie Langel* 
 * [Unicode MessageFormat Working Group]
-  * Eemeli Aro
+  * Eemeli Aro* 
 * [W3C]
   * [Web-interoperable Runtimes Community Group]
-    * Jory Burson
-    * Robin Ginn
+    * Jory Burson* 
+    * Robin Ginn* 
     * Jordan Harband
-    * Ethan Arrowood
+    * Ethan Arrowood (Vercel)
   * [Web History Community Group]
-    * Brian Kardell
+    * Brian Kardell* (Igalia)
   * [Web Platform Incubator Community Group]
-    * Brian Kardell
+    * Brian Kardell* (Igalia)
   * [Touch Events Community Group]
     * Scott Gonzalez
   * [Spec Editors Community Group]
-    * Jory Burson
+    * Jory Burson*
   * [Interledger Payments Community Group]
     * Kris Borchers
   * All Affiliated Accounts
@@ -45,6 +45,7 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Robin Ginn
     * Kris Borchers
 
+[Working Group Members]: https://github.com/openjs-foundation/standards#working-group-members
 [Ecma International]: https://www.ecma-international.org
 [TC39]: https://github.com/tc39
 [TC53]: https://www.ecma-international.org/technical-committees/tc53/
