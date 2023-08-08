@@ -41,6 +41,7 @@ For historical documents about our standards work as the jQuery Foundation and J
 - [@michaelchampion](https://github.com/michaelchampion) - Michael Champion
 - [@sendilkumarn](https://github.com/sendilkumarn) - Sendil Kumar N
 - [@rxmarbles](https://github.com/rxmarbles) - Rick Markins
+- [@ctcpip](https://github.com/ctcpip) - Chris de Almeida
 
 
 ### Past Members
