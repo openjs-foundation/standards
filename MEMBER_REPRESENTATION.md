@@ -8,6 +8,7 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Jordan Harband (Invited Expert)
     * Lea Verou* 
     * Richard Gibson* 
+    * Eemeli Aro (Mozilla)
   * [TC53] 
     * Donovan Buck* (Invited Expert)
   * General Assembly Representative
