@@ -27,6 +27,7 @@ For historical documents about our standards work as the jQuery Foundation and J
 
 - [@bkardell](https://github.com/bkardell) - Brian Kardell
 - [@christian-bromann](https://github.com/christian-bromann) - Christian Bromann
+- [@ctcpip](https://github.com/ctcpip) - Chris de Almeida
 - [@darcyclarke](https://github.com/darcyclarke) - Darcy Clarke
 - [@dtex](https://github.com/dtex) - Donovan Buck
 - [@eemeli](https://github.com/eemeli) - Eemeli Aro
