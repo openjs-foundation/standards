@@ -9,6 +9,7 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Lea Verou* 
     * Richard Gibson* 
     * Eemeli Aro (Mozilla)
+    * Gus Caplan*
   * [TC53] 
     * Donovan Buck* (Invited Expert)
   * General Assembly Representative
