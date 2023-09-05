@@ -27,6 +27,8 @@ For historical documents about our standards work as the jQuery Foundation and J
 
 - [@bkardell](https://github.com/bkardell) - Brian Kardell
 - [@christian-bromann](https://github.com/christian-bromann) - Christian Bromann
+- [@ctcpip](https://github.com/ctcpip) - Chris de Almeida
+- [@darcyclarke](https://github.com/darcyclarke) - Darcy Clarke
 - [@dtex](https://github.com/dtex) - Donovan Buck
 - [@eemeli](https://github.com/eemeli) - Eemeli Aro
 - [@gibson042](https://github.com/gibson042) - Richard Gibson
@@ -38,6 +40,9 @@ For historical documents about our standards work as the jQuery Foundation and J
 - [@tobie](https://github.com/tobie) - Tobie Langel
 - [@VoltrexKeyva](https://github.com/VoltrexKeyva) - Mohammed Keyvanzadeh
 - [@michaelchampion](https://github.com/michaelchampion) - Michael Champion
+- [@sendilkumarn](https://github.com/sendilkumarn) - Sendil Kumar N
+- [@rxmarbles](https://github.com/rxmarbles) - Rick Markins
+
 
 ### Past Members
 
@@ -46,7 +51,6 @@ For historical documents about our standards work as the jQuery Foundation and J
 - [@Eomm](https://github.com/Eomm) - Manuel Spigolon
 - [@LaRuaNa](https://github.com/LaRuaNa) - Onur Laru
 - [@obensource](https://github.com/obensource) - Ben Michel
-- [@sendilkumarn](https://github.com/sendilkumarn) - Sendil Kumar N
 - [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
 - [@littledan](https://github.com/littledan) - Daniel Ehrenberg
 

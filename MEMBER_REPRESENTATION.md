@@ -15,7 +15,17 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
   * General Assembly Representative
     * Jory Burson* 
 * [Open Source Initiative]
-  * Tobie Langel* 
+  * Tobie Langel
+* [Open Policy Alliance]    
+  * Tobie Langel
+* [TC39]
+  * Guy Bedford
+  * Jordan Harband
+  * Jory Burson (Ecma GA Representative)
+  * Lea Verou
+  * Richard Gibson
+* [TC53]
+  * Donovan Buck
 * [Unicode MessageFormat Working Group]
   * Eemeli Aro* 
 * [W3C]
@@ -47,12 +57,14 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Robin Ginn
     * Kris Borchers
 
+
 [Working Group Members]: https://github.com/openjs-foundation/standards#working-group-members
 [Ecma International]: https://www.ecma-international.org
+[Open Source Initiative]: https://opensource.org/
+[Open Policy Alliance]: https://opensource.org/programs/open-policy-alliance/
 [TC39]: https://github.com/tc39
 [TC53]: https://www.ecma-international.org/technical-committees/tc53/
 [W3C]: https://www.w3.org/
-[Open Source Initiative]: https://opensource.org/
 [Unicode MessageFormat Working Group]: https://github.com/unicode-org/message-format-wg
 [Interledger Payments Community Group]: https://www.w3.org/community/interledger/
 [Web-interoperable Runtimes Community Group]: https://www.w3.org/community/wintercg/
