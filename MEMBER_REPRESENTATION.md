@@ -15,6 +15,8 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Chris de Almeida (IBM)
   * [TC53]
     * Donovan Buck* (Invited Expert)
+  * [TC54]
+    * Chris de Almeida (IBM)
   * General Assembly Representative
     * Jory Burson*
 * [Open Source Initiative]
@@ -61,6 +63,7 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
 [Open Policy Alliance]: https://opensource.org/programs/open-policy-alliance/
 [TC39]: https://tc39.es/
 [TC53]: https://www.ecma-international.org/technical-committees/tc53/
+[TC54]: https://www.ecma-international.org/technical-committees/tc54/
 [W3C]: https://www.w3.org/
 [Unicode MessageFormat Working Group]: https://github.com/unicode-org/message-format-wg
 [Interledger Payments Community Group]: https://www.w3.org/community/interledger/
