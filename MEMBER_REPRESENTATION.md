@@ -44,6 +44,8 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
   * [CSS Working Group]
     * Lea Verou (Invited Expert)
     * Chris de Almeida (IBM)
+  * [Browser Testing and Tools Working Group]
+    * Christian Bromann (Invited Expert)
   * All Affiliated Accounts
     * Richard Gibson
     * Brian Kardell
@@ -73,3 +75,4 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
 [Web Platform Incubator Community Group]: https://www.w3.org/community/wicg/
 [Spec Editors Community Group]: https://www.w3.org/community/speced-cg/
 [CSS Working Group]: https://www.w3.org/groups/wg/css/
+[Browser Testing and Tools Working Group]: https://www.w3.org/groups/wg/browser-tools-testing/
