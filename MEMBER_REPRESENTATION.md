@@ -4,21 +4,21 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
 
 * [Ecma International]
   * [TC39]
-    * Jory Burson*
-    * Guy Bedford*
-    * Jordan Harband (Invited Expert)
-    * Lea Verou*
+    * Jory Burson *
+    * Guy Bedford *
+    * Jordan Harband (HeroDevs)
+    * Lea Verou *
     * Richard Gibson*
     * Eemeli Aro (Mozilla)
-    * Gus Caplan*
+    * Gus Caplan *
     * Joe Sepi (IBM)
     * Chris de Almeida (IBM)
   * [TC53]
-    * Donovan Buck* (Invited Expert)
+    * Donovan Buck *
   * [TC54]
     * Chris de Almeida (IBM)
   * General Assembly Representative
-    * Jory Burson*
+    * Jory Burson *
 * [Open Source Initiative]
   * Tobie Langel
 * [Open Policy Alliance]
@@ -27,18 +27,18 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
   * Eemeli Aro*
 * [W3C]
   * [Web-interoperable Runtimes Community Group]
-    * Jory Burson*
-    * Robin Ginn*
+    * Jory Burson *
+    * Robin Ginn *
     * Jordan Harband
     * Ethan Arrowood (Vercel)
   * [Web History Community Group]
-    * Brian Kardell* (Igalia)
+    * Brian Kardell * (Igalia)
   * [Web Platform Incubator Community Group]
-    * Brian Kardell* (Igalia)
+    * Brian Kardell * (Igalia)
   * [Touch Events Community Group]
     * Scott Gonzalez
   * [Spec Editors Community Group]
-    * Jory Burson*
+    * Jory Burson *
   * [Interledger Payments Community Group]
     * Kris Borchers
   * [CSS Working Group]
