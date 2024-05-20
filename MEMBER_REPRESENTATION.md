@@ -10,7 +10,6 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Lea Verou *
     * Richard Gibson*
     * Eemeli Aro (Mozilla)
-    * Gus Caplan *
     * Joe Sepi (IBM)
     * Chris de Almeida (IBM)
   * [TC53]
