@@ -5,21 +5,21 @@
   </picture>
 </a>
 
-# Standards Working Group
+# Standards Collab Space
 
-The Standards Working Group actively monitors evolving standards to educate projects about developments that might affect them, and helps projects formulate standards strategies and advance them before standards bodies.
+The Standards Collab Space actively monitors evolving standards to educate projects about developments that might affect them, and helps projects formulate standards strategies and advance them before standards bodies.
 
 ## This Repository
 
 The purpose of this repository is to provide a central coordination and documentation point for project communities about foundation standards activities.
 
-The Standards Working Group's responsibilities, as ratified by the OpenJS Foundation's Cross Project Council, can be found in the [CPC's Working Groups Document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/governance/WORKING_GROUPS.md#standards)
+The Standards Collab Space's responsibilities, as ratified by the OpenJS Foundation's Cross Project Council, can be found in the [CPC's Working Groups Document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/governance/WORKING_GROUPS.md#standards)
 
 Interested parties can also [join our #standards channel](https://communityinviter.com/apps/js-foundation/join-openjs-foundation-on-slack) on Slack.
 
 For historical documents about our standards work as the jQuery Foundation and JS Foundation, please see this [repository](https://github.com/JSFoundation/standards).
 
-## Working Group Members
+## Collab Space Members
 
 <!-- ncu-team-sync.team(openjs-foundation/standards) -->
 
