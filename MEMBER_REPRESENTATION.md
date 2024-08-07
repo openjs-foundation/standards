@@ -1,6 +1,6 @@
 # OpenJS Foundation Representatives
 
-The following document lists OpenJS Foundation's memberships and liaison relationships, along with [Working Group Members] and community members who participate in these organizations. An asterisk (*) denotes delegates of the OpenJS Foundation. Where applicable, organizational affiliation has been added in parens.
+The following document lists OpenJS Foundation's memberships and liaison relationships, along with [Collaboration Space Members] and community members who participate in these organizations. An asterisk (*) denotes delegates of the OpenJS Foundation. Where applicable, organizational affiliation has been added in parens.
 
 * [Ecma International]
   * [TC39]
@@ -58,7 +58,7 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Robin Ginn
     * Kris Borchers
 
-[Working Group Members]: https://github.com/openjs-foundation/standards#working-group-members
+[Collaboration Space Members]: https://github.com/openjs-foundation/standards#collaboration-space-members
 [Ecma International]: https://www.ecma-international.org
 [Open Source Initiative]: https://opensource.org/
 [Open Policy Alliance]: https://opensource.org/programs/open-policy-alliance/
