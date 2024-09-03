@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-# Standards Collaboration Space
+# <a id="standards-working-group"> Standards Collaboration Space
 
 The Standards Collaboration Space actively monitors evolving standards to educate projects about developments that might affect them, and helps projects formulate standards strategies and advance them before standards bodies.
 

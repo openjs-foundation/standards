@@ -1,4 +1,4 @@
-# OpenJS Standards Collaboration Space
+# <a id="openjs-standards-working-group"></a> OpenJS Standards Collaboration Space
 
 <!-- yet to add -->
 For the current list of the Collaboration Space members, see the project [README.md](./README.md).
@@ -14,7 +14,7 @@ added on an ongoing basis.
 * Counted towards quorum in [Collaboration Space Meetings](#collaboration-space-meetings)
 * Participates in voting
 
-## Collaboration Space Membership
+## <a id="working-group-membership"></a> Collaboration Space Membership
 
 Collaboration Space Membership is not time-limited. There is no fixed size of the Collaboration Space.
 
@@ -25,7 +25,7 @@ The following groups automatically qualify for membership and can request to be 
 * OpenJS Foundation CPC Members
 * OpenJS Foundation Project Maintainers
 
-## Collaboration Space Meetings
+## <a id="working-group-meetings"></a> Collaboration Space Meetings
 
 The Collaboration Space meets bi-weekly on Zoom.us. A designated moderator
 approved by the Collaboration Space runs the meeting. Each meeting should be
