@@ -12,6 +12,7 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Eemeli Aro (Mozilla)
     * Joe Sepi (IBM)
     * Chris de Almeida (IBM)
+    * Ulises Gascón *
   * [TC53]
     * Donovan Buck *
   * [TC54]
