@@ -17,6 +17,7 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Donovan Buck *
   * [TC54]
     * Chris de Almeida (IBM)
+    * Jordan Harband (HeroDevs)
   * General Assembly Representative
     * Jory Burson *
 * [Open Source Initiative]
