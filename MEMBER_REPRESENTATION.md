@@ -18,6 +18,9 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
   * [TC54]
     * Chris de Almeida (IBM)
     * Jordan Harband (HeroDevs)
+  * [TC55]
+    * Chris de Almeida *
+    * Jordan Harband (HeroDevs)
   * General Assembly Representative
     * Jory Burson *
 * [Open Source Initiative]
@@ -27,11 +30,6 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
 * [Unicode MessageFormat Working Group]
   * Eemeli Aro*
 * [W3C]
-  * [Web-interoperable Runtimes Community Group]
-    * Jory Burson *
-    * Robin Ginn *
-    * Jordan Harband
-    * Ethan Arrowood (Vercel)
   * [Web History Community Group]
     * Brian Kardell * (Igalia)
   * [Web Platform Incubator Community Group]
