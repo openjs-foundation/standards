@@ -8,7 +8,7 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Guy Bedford *
     * Jordan Harband (HeroDevs)
     * Lea Verou *
-    * Richard Gibson*
+    * Richard Gibson *
     * Eemeli Aro (Mozilla)
     * Joe Sepi (IBM)
     * Chris de Almeida (IBM)
@@ -45,6 +45,8 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Chris de Almeida (IBM)
   * [Browser Testing and Tools Working Group]
     * Christian Bromann (Invited Expert)
+  * [Web Application Security Working Group]
+    * Chris de Almeida (IBM)
   * All Affiliated Accounts
     * Richard Gibson
     * Brian Kardell
@@ -75,3 +77,4 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
 [Spec Editors Community Group]: https://www.w3.org/community/speced-cg/
 [CSS Working Group]: https://www.w3.org/groups/wg/css/
 [Browser Testing and Tools Working Group]: https://www.w3.org/groups/wg/browser-tools-testing/
+[Web Application Security Working Group]: https://www.w3.org/groups/wg/webappsec/
