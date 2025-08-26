@@ -1,0 +1,31 @@
+name: Schedule Meetings
+on:
+  workflow_dispatch:
+  pull_request:
+      paths:
+        - '.github/workflows/meetings.yml'
+        - '.github/ISSUE_TEMPLATE/meeting.md'
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  meeting:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Standards
+        uses: 'pkgjs/meet@v1'
+        with:
+          issueTitle: '<%= date.toZonedDateTimeISO("UTC").toPlainDate().toString() %> Standards Meeting'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repos: openjs-foundation/standards
+          agendaLabel: 'standards-agenda'
+          meetingLabels: 'meeting'
+          # Tuesday 12 PM America/Chicago with a period of 2 weeks (P2W)
+          schedules: '2025-08-26T12:00:00.0[America/Chicago]/P2W'
+          createWithin: 'P1W'
+          meetingLink: 'https://zoom-lfx.platform.linuxfoundation.org/meeting/93703892842'
+          issueTemplate: 'meeting.md'
