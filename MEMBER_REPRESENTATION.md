@@ -67,6 +67,7 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
 [TC39]: https://tc39.es/
 [TC53]: https://www.ecma-international.org/technical-committees/tc53/
 [TC54]: https://www.ecma-international.org/technical-committees/tc54/
+[TC55]: https://www.ecma-international.org/technical-committees/tc55/
 [W3C]: https://www.w3.org/
 [Unicode MessageFormat Working Group]: https://github.com/unicode-org/message-format-wg
 [Interledger Payments Community Group]: https://www.w3.org/community/interledger/
