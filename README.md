@@ -35,6 +35,7 @@ For historical documents about our standards work as the jQuery Foundation and J
 - [@leaverou](https://github.com/leaverou) - Lea Verou
 - [@ljharb](https://github.com/ljharb) - Jordan Harband
 - [@mikesamuel](https://github.com/mikesamuel) - Mike Samuel
+- [@sheplu](https://github.com/sheplu) - Jean Burellier
 - [@tobie](https://github.com/tobie) - Tobie Langel
 - [@ulisesGascon](https://github.com/UlisesGascon) - Ulises Gascón
 - [@VoltrexKeyva](https://github.com/VoltrexKeyva) - Mohammed Keyvanzadeh
