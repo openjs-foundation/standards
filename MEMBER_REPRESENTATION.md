@@ -52,7 +52,7 @@ The following document lists OpenJS Foundation's memberships and liaison relatio
     * Brian Kardell
     * Jory Burson
     * Michael Champion (AC Rep.)
-    * Tobie Langel (Alt AC Rep.)
+    * Tobie Langel
     * Anne-Gaelle Colom
     * David Methvin
     * Alexander Schmitz
